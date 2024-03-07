@@ -13,13 +13,13 @@ This mobile application provides users with the ability to select items, add the
 ## Technologies Used
 
 - Android SDK
-- RecyclerView for item display
-- SQLite or Firebase Realtime Database for cart management
-- Payment gateway integration (if applicable)
+- Listview for item display
+- SQLite for cart management
+
 
 ## Setup Instructions
 
 1. Clone the repository.
 2. Customize the item catalog and integrate with your preferred backend solution.
 3. Implement the shopping cart functionality using SQLite or Firebase Realtime Database.
-4. Integrate payment gateway
+4. Integrate payment gateway if possible 
